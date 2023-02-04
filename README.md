@@ -1,5 +1,6 @@
 ## Setup React Native Expo
 
+
   - expo + typescript
     - expo init -t expo-template-blank-typescript your-project-name
     - expo init name-project
@@ -13,5 +14,8 @@
   - Prettier 
     - add in `.prettierrc` in fil
       
+  # Fonte: 
+  - [site01](https://zaferayan.medium.com/how-to-configure-eslint-and-prettier-for-expo-projects-fd78d4158590)
+  - [site02](https://dev.to/dimaportenko/expo-typescript-eslint-prettier-initial-setup-54d3)
 
 
